@@ -1,4 +1,7 @@
-# api documentation for  [mongoose-currency (v0.2.0)](https://github.com/catalystmediastudios/mongoose-currency)  [![npm package](https://img.shields.io/npm/v/npmdoc-mongoose-currency.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-mongoose-currency) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-mongoose-currency.svg)](https://travis-ci.org/npmdoc/node-npmdoc-mongoose-currency)
+# npmdoc-mongoose-currency
+
+#### basic api documentation for  [mongoose-currency (v0.2.0)](https://github.com/catalystmediastudios/mongoose-currency)  [![npm package](https://img.shields.io/npm/v/npmdoc-mongoose-currency.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-mongoose-currency) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-mongoose-currency.svg)](https://travis-ci.org/npmdoc/node-npmdoc-mongoose-currency)
+
 #### Adds schema type "currency" to mongoose. Great for converting user input.
 
 [![NPM](https://nodei.co/npm/mongoose-currency.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/mongoose-currency)
@@ -62,7 +65,8 @@
     "scripts": {
         "test": "mocha test"
     },
-    "version": "0.2.0"
+    "version": "0.2.0",
+    "bin": {}
 }
 ```
 
